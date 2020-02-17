@@ -49,9 +49,9 @@ Add your own domain name and have it point to the running services (try adding a
 
 
 
-## Beanstack url
-
+## Beanstack URL
+http://image-filter-starter-code-dev22.us-west-2.elasticbeanstalk.com/
 
 
 ## EB Screenshot
-
+![eb](./img/eb.png)
